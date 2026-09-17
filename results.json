@@ -1,0 +1,2482 @@
+{
+  "chavchavadze-m2-41-tbilisi.booked.net": {},
+  "yourfamilylines.com": {
+    "_error": "HTTPSConnectionPool(host='yourfamilylines.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))"
+  },
+  "gogroupauto.com": {
+    "_error": "HTTPSConnectionPool(host='gogroupauto.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='gogroupauto.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+  },
+  "3xd.co.uk": {},
+  "jcmobilecigars.com": {},
+  "5starremoval.weebly.com": {
+    "Weebly": [
+      "scriptSrc: cdn\\d+\\.editmysite\\.com"
+    ]
+  },
+  "globalrn.com": {},
+  "szentkristofudvarhaz.hu": {
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "dioxoxigenio.com.br": {
+    "_error": "HTTPSConnectionPool(host='dioxoxigenio.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dioxoxigenio.com.br'. (_ssl.c:1081)\")))"
+  },
+  "gutendorf.ru": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "UIKit": [
+      "scriptSrc: uikit.*\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.2.2"
+    ],
+    "WP Fastest Cache": [
+      "scriptSrc: /wp-content/cache/wpfc-minified/"
+    ],
+    "Yandex.Metrika": [
+      "scriptSrc: mc\\.yandex\\.ru/metrika/(?:tag|watch)\\.js"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "xn--kleoghvidevareservice-qfc.dk": {},
+  "coenzwezerijnen.nu": {
+    "_error": "HTTPSConnectionPool(host='coenzwezerijnen.nu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='coenzwezerijnen.nu', port=443) at 0x2128efcdbd0>, 'Connection to coenzwezerijnen.nu timed out. (connect timeout=8)'))"
+  },
+  "clotting-guide.online": {
+    "_error": "HTTPSConnectionPool(host='www.clotting-guide.online', port=443): Read timed out. (read timeout=8)"
+  },
+  "rsthealthcare.com": {},
+  "jobresourcecentre.com": {
+    "_error": "HTTPSConnectionPool(host='jobresourcecentre.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "somalidisablesupport.com": {
+    "Astra": [
+      "scriptSrc: themes/astra\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Jetpack": [
+      "scriptSrc: /wp-content/plugins/jetpack/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Mailcheck": [
+      "scriptSrc: mailcheck(?:\\.min)?\\.js(?:\\?v(?:er)?=(\\d+\\.\\d+\\.\\d+))?\\;version:\\1"
+    ],
+    "punycode": [
+      "scriptSrc: punycode(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.){1,2}\\d+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.0.4"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "lojatatical.com.br": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "fsbwyoming.com": {
+    "_error": "HTTPSConnectionPool(host='myfrbank.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "ferienwohnung-kastell.de": {},
+  "newbeaverborough.org": {
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1",
+      "meta: generator=Elementor 4.2.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "OWL Carousel": [
+      "scriptSrc: owl\\.carousel.*\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "imgs.co.jp": {
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ]
+  },
+  "msc-manching.de": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Colorlib Sparkling": [
+      "scriptSrc: /wp-content/themes/sparkling/"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.2.11"
+    ]
+  },
+  "cytofastmed.com": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Burst": [
+      "scriptSrc: assets/js/build/burst"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js"
+    ],
+    "Google Maps": [
+      "scriptSrc: //maps\\.google(?:apis)?\\.com/maps/api/js"
+    ],
+    "Joinchat": [
+      "scriptSrc: /js/joinchat\\.min\\.js"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Modernizr": [
+      "scriptSrc: modernizr(?:\\.([\\d.]+))?.*\\.js\\;version:\\1",
+      "scriptSrc: ([\\d.]+)?/modernizr.*\\.js\\;version:\\1"
+    ],
+    "Smart Slider 3": [
+      "scriptSrc: /wp-content/plugins/smart-slider-3(?:-pro)?/"
+    ],
+    "WhatsApp Business Chat": [
+      "scriptSrc: /plugins/creame-whatsapp-me.*joinchat\\.min\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ],
+    "wpBakery": [
+      "meta: generator=Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+    ]
+  },
+  "fisherinvestments.com": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "231selfstorage.com": {
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Kadence WP Kadence": [
+      "scriptSrc: /wp-content/themes/kadence/.+navigation\\.min\\.js(?:\\?ver=([\\d\\.]+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "38inspect.com": {
+    "Drupal Multisite": [
+      "scriptSrc: /sites/(?!(?:default|all)/).*/(?:files|themes|modules)/"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Underscore.js": [
+      "scriptSrc: underscore.*\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "doortodoororganics.com": {
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ]
+  },
+  "empresasori.com": {
+    "_error": "HTTPSConnectionPool(host='empresasori.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))"
+  },
+  "amourfinder.com": {},
+  "infoaboutnetwork.com": {
+    "_error": "HTTPSConnectionPool(host='infoaboutnetwork.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "katesworldtravel.com": {
+    "Astra": [
+      "scriptSrc: themes/astra\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Facebook Pixel": [
+      "scriptSrc: connect\\.facebook\\.\\w+/.+/fbevents\\.js"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Morphext": [
+      "scriptSrc: morphext(?:\\.min)?\\.js(?:\\?ver=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "coastwidemechanicalcentralcoast.com.au": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "LiteSpeed Cache": [
+      "scriptSrc: wp-content/plugins/litespeed-cache/"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "huberautomotive.com": {},
+  "centreconsiliereavort.ro": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "stwannas.com": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "rionecontrastanga.net": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Instagram Feed for WordPress": [
+      "scriptSrc: instagram-feed(?:\\/js)?(?:\\/sbi-scripts)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Joinchat": [
+      "scriptSrc: /js/joinchat\\.min\\.js"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Slider Revolution": [
+      "scriptSrc: /wp-content/plugins/revslider/",
+      "scriptSrc: jquery\\.themepunch\\.revolution\\.min\\.js"
+    ],
+    "Smash Balloon Instagram Feed": [
+      "scriptSrc: /wp-content/plugins/instagram-feed/"
+    ],
+    "WhatsApp Business Chat": [
+      "scriptSrc: /plugins/creame-whatsapp-me.*joinchat\\.min\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "genesisny.net": {
+    "authorize.net": [
+      "scriptSrc: \\.authorize\\.net/"
+    ],
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js"
+    ]
+  },
+  "doringpoort.com": {
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "abcdpinturas.com.br": {
+    "_error": "HTTPSConnectionPool(host='abcdpinturas.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'abcdpinturas.com.br'. (_ssl.c:1081)\")))"
+  },
+  "marien-apotheke-grefrath-app.de": {},
+  "253media.com": {
+    "Amazon S3": [
+      "scriptSrc: s3[^ ]*\\.amazonaws\\.com/"
+    ],
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "Facebook Pixel": [
+      "scriptSrc: connect\\.facebook\\.\\w+/.+/fbevents\\.js"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Font API": [
+      "scriptSrc: googleapis\\.com/.+webfont"
+    ],
+    "Google Hosted Libraries": [
+      "scriptSrc: ajax\\.googleapis\\.com/ajax/libs/"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "HighLevel": [
+      "scriptSrc: \\.leadconnectorhq\\.com/"
+    ],
+    "Humblytics": [
+      "scriptSrc: app\\.humblytics\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1",
+      "scriptSrc: /(\\d+\\.\\d+\\.\\d+)/jquery(?!\\.popupoverlay\\.js|(?:\\.[\\w-]*)*fancybox)[/.-][^u]\\;version:\\1"
+    ],
+    "jsDelivr": [
+      "scriptSrc: cdn\\.jsdelivr\\.net"
+    ],
+    "Linkedin Insight Tag": [
+      "scriptSrc: snap\\.licdn\\.com/li\\.lms-analytics/insight\\.min\\.js"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ]
+  },
+  "natedea.co.uk": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "velvety.eu": {
+    "Conditional Fields for Contact Form 7": [
+      "scriptSrc: cf7-conditional-fields(?:\\/js)?(?:\\/scripts)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "CookieYes": [
+      "scriptSrc: /wp-content/plugins/cookie-law-info/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Linkedin Insight Tag": [
+      "scriptSrc: snap\\.licdn\\.com/li\\.lms-analytics/insight\\.min\\.js"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ],
+    "WPML": [
+      "scriptSrc: /wp-content/plugins/sitepress-multilingual-cms/",
+      "meta: generator=WPML ver:4.9.5 stt:1,3;"
+    ]
+  },
+  "familybroker.cz": {},
+  "passwordstore.it": {
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "WP Fastest Cache": [
+      "scriptSrc: /wp-content/cache/wpfc-minified/"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "den-a-sha.co.jp": {
+    "_error": "HTTPSConnectionPool(host='den-a-sha.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "haus-muehlenfeld-pommerby.de": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "loizillon.com": {
+    "_error": "HTTPSConnectionPool(host='www.loizillon.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "avocatalinamanciu.ro": {
+    "Cookie Notice": [
+      "scriptSrc: /wp-content/plugins/cookie-notice/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Facebook Chat Plugin": [
+      "scriptSrc: connect\\.facebook\\.net/.+\\.customerchat\\.js"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "OceanWP": [
+      "scriptSrc: themes/oceanwp\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Tiny Slider": [
+      "scriptSrc: (?:/([\\d\\.]+)/min/)?tiny-slider(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "boken.ch": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "largsbaychiropractic.com.au": {
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ]
+  },
+  "arenaskolor.se": {
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.8.8"
+    ]
+  },
+  "sprucemeadowsmd.com": {
+    "Kadence WP Kadence": [
+      "scriptSrc: /wp-content/themes/kadence/.+navigation\\.min\\.js(?:\\?ver=([\\d\\.]+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "lets.gr": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "maniaupiekszania.pl": {
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "OceanWP": [
+      "scriptSrc: themes/oceanwp\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Underscore.js": [
+      "scriptSrc: underscore.*\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "WPForms": [
+      "scriptSrc: /wp-content/plugins/wpforms(?:-lite)?/.+(?:frontend\\.min|wpforms)\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ]
+  },
+  "ecolab.com": {
+    "_error": "HTTPSConnectionPool(host='ecolab.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "trs-energycontrol.de": {
+    "Lodash": [
+      "scriptSrc: lodash.*\\.js"
+    ],
+    "Onsen UI": [
+      "scriptSrc: (/.*onsen.*min\\.js|.*angular-onsenui\\.min\\.js)"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Sentry": [
+      "scriptSrc: \\.sentry-cdn\\.com/"
+    ],
+    "WebsiteBuilder": [
+      "meta: generator=Wix.com Website Builder"
+    ],
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com",
+      "meta: generator=Wix.com Website Builder"
+    ]
+  },
+  "4stonebuildings.com": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)",
+      "scriptSrc: \\.fontawesome\\.com/([0-9a-z]+).js"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "MonsterInsights": [
+      "scriptSrc: /wp-content/plugins/google-analytics-for-wordpress/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "gapconstructionwi.com": {
+    "Lodash": [
+      "scriptSrc: lodash.*\\.js"
+    ],
+    "Onsen UI": [
+      "scriptSrc: (/.*onsen.*min\\.js|.*angular-onsenui\\.min\\.js)"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Sentry": [
+      "scriptSrc: \\.sentry-cdn\\.com/"
+    ],
+    "WebsiteBuilder": [
+      "meta: generator=Wix.com Website Builder"
+    ],
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com",
+      "meta: generator=Wix.com Website Builder"
+    ]
+  },
+  "hnafirm.com": {
+    "_error": "HTTPSConnectionPool(host='hnafirm.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "restwellstreetmedicalcentre.com.au": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js",
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ]
+  },
+  "5w.design": {
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Semplice": [
+      "scriptSrc: /wp-content/themes/semplice(?:\\d+)?(?:-child)?(?:-theme)?/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "itsolutions24.pl": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "mehmetefendimacedonia.com": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "dssfla.com": {
+    "C3.js": [
+      "scriptSrc: c3(?:\\.min)?(?:-[a-zA-Z0-9]{8})?\\.js(?:\\?ver=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "LiteSpeed Cache": [
+      "scriptSrc: wp-content/plugins/litespeed-cache/"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Web Font Loader": [
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?webfontloader(?:\\.min)?(?:[-\\.][\\d\\w]{0,32})?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.0.4"
+    ]
+  },
+  "aida-cruises.at": {},
+  "weducars.co.za": {
+    "BeTheme": [
+      "scriptSrc: /betheme/js/scripts(?:\\.min)?\\.js\\?ver=([\\d.]+)\\;version:\\1"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Sign-in": [
+      "scriptSrc: accounts\\.google\\.com/gsi/client"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Slider Revolution": [
+      "scriptSrc: /wp-content/plugins/revslider/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "produkttheater.de": {
+    "_error": "HTTPSConnectionPool(host='produkttheater.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'produkttheater.de'. (_ssl.c:1081)\")))"
+  },
+  "soziale-dreigliederung.de": {
+    "_error": "HTTPSConnectionPool(host='soziale-dreigliederung.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "unnames.com": {
+    "_error": "HTTPSConnectionPool(host='unnames.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "antikebau.de": {},
+  "1planettechnologies.weebly.com": {
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js"
+    ],
+    "Google Hosted Libraries": [
+      "scriptSrc: ajax\\.googleapis\\.com/ajax/libs/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /(\\d+\\.\\d+\\.\\d+)/jquery(?!\\.popupoverlay\\.js|(?:\\.[\\w-]*)*fancybox)[/.-][^u]\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Weebly": [
+      "scriptSrc: cdn\\d+\\.editmysite\\.com"
+    ]
+  },
+  "3strandschurch.org": {
+    "_error": "HTTPSConnectionPool(host='3strandschurch.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "bas-ingenieria.cl": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ]
+  },
+  "disneystore.com": {
+    "OneTrust": [
+      "scriptSrc: cdn\\.cookielaw\\.org",
+      "scriptSrc: otSDKStub\\.js",
+      "scriptSrc: cdn\\.cookielaw\\.org"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Salesforce Commerce Cloud": [
+      "scriptSrc: /demandware\\.static/"
+    ],
+    "Salesforce Interaction Studio": [
+      "scriptSrc: cdn\\.evgnet\\.com"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "premierhomeremodeling.net": {},
+  "seringa-safaris.com": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Joomla": [
+      "scriptSrc: (?:^|/)(feed/com_|components/com_)",
+      "meta: generator=Joomla! - Open Source Content Management"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Popper": [
+      "scriptSrc: /popper(?:\\.min)?\\.js(?:/([0-9.]+))?\\;version:\\1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "branson-connection.com": {
+    "_error": "HTTPSConnectionPool(host='branson-connection.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+  },
+  "skywardspeech.com.au": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "resourceservicesolutions.com": {
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1"
+    ],
+    "jQuery CDN": [
+      "scriptSrc: code\\.jquery\\.com/"
+    ],
+    "jsDelivr": [
+      "scriptSrc: cdn\\.jsdelivr\\.net"
+    ]
+  },
+  "aaice.net": {
+    "All in One SEO": [
+      "meta: generator=All in One SEO (AIOSEO) 5.0.1.1"
+    ],
+    "All in One SEO Pack": [
+      "meta: generator=All in One SEO (AIOSEO) 5.0.1.1"
+    ],
+    "Easy Pie Chart": [
+      "scriptSrc: [Ee]asy-?[Pp]ie-?[Cc]hart(?:\\.min)?\\.js"
+    ],
+    "GoDaddy CoBlocks": [
+      "scriptSrc: /wp-content/plugins/coblocks/"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "HubSpot": [
+      "scriptSrc: \\.hs-scripts\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "MonsterInsights": [
+      "scriptSrc: /wp-content/plugins/google-analytics-for-wordpress/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "2020wealthadvisory.com": {
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "westchesterpointechiro.com": {
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "ShareThis": [
+      "scriptSrc: \\.sharethis\\.com/"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "laplumedelisibilite.fr": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1"
+    ],
+    "jQuery CDN": [
+      "scriptSrc: code\\.jquery\\.com/"
+    ]
+  },
+  "phucankhanggroup.com": {
+    "_error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  "massageforworldpeace.com": {
+    "_error": "HTTPSConnectionPool(host='massageforworldpeace.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "roccofortehotels.cn": {
+    "_error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  "amaronbattery.in": {
+    "_error": "HTTPSConnectionPool(host='amaronbattery.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "radxmobile.com": {
+    "_error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  "11853prospecthill.com": {
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Maps": [
+      "scriptSrc: //maps\\.google(?:apis)?\\.com/maps/api/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Handlebars": [
+      "scriptSrc: handlebars(?:\\.runtime)?(?:-v([\\d.]+?))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /(\\d+\\.\\d+\\.\\d+)/jquery(?!\\.popupoverlay\\.js|(?:\\.[\\w-]*)*fancybox)[/.-][^u]\\;version:\\1"
+    ],
+    "jsDelivr": [
+      "scriptSrc: cdn\\.jsdelivr\\.net"
+    ],
+    "libphonenumber": [
+      "scriptSrc: (?:/([\\d\\.]+))?/libphonenumber(?:-js\\.min)?\\.js\\;version:\\1"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WOW": [
+      "scriptSrc: wow(?:\\.min)?\\.js(?:\\?ver=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "europeaninns.com": {},
+  "cultivateventures.co.nz": {
+    "_error": "HTTPSConnectionPool(host='cultivateventures.co.nz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "2-com.net": {
+    "_error": "HTTPSConnectionPool(host='2-com.net', port=443): Read timed out. (read timeout=8)"
+  },
+  "nielsbirk.dk": {
+    "_error": "HTTPSConnectionPool(host='nielsbirk.dk', port=443): Max retries exceeded with url: /cgi-sys/suspendedpage.cgi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "skywayrestaurants.net": {
+    "Astra": [
+      "scriptSrc: themes/astra\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "sevecoitalia.com": {
+    "_error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  "sgsextremaratio.it": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Nuxt.js": [
+      "scriptSrc: /_nuxt/"
+    ]
+  },
+  "everhartsoutdoor.com": {
+    "_error": "HTTPSConnectionPool(host='www.everhartsoutdoor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.everhartsoutdoor.com'. (_ssl.c:1081)\")))"
+  },
+  "2ldm.com": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "GoDaddy CoBlocks": [
+      "scriptSrc: /wp-content/plugins/coblocks/"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "MonsterInsights": [
+      "scriptSrc: /wp-content/plugins/google-analytics-for-wordpress/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Site Kit": [
+      "meta: generator=Site Kit by Google 1.187.0"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "handycars.com": {
+    "Amazon S3": [
+      "scriptSrc: s3[^ ]*\\.amazonaws\\.com/"
+    ],
+    "ComplyAuto": [
+      "scriptSrc: cdn\\.complyauto\\.com/"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jsDelivr": [
+      "scriptSrc: cdn\\.jsdelivr\\.net"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Typesense": [
+      "scriptSrc: /typesense@([\\d\\.]+)/dist/typesense\\.min\\.js\\;version:\\1"
+    ],
+    "UserWay": [
+      "scriptSrc: cdn\\.userway\\.org/widget.*\\.js"
+    ],
+    "Visual Composer": [
+      "meta: generator=Powered by Visual Composer Website Builder - fast and easy-to-use drag and drop visual editor for WordPress."
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "startravelcompany.com": {
+    "_error": "HTTPSConnectionPool(host='startravelcompany.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "costa-coffee.be": {
+    "_error": "HTTPSConnectionPool(host='costa-coffee.be', port=443): Read timed out. (read timeout=8)"
+  },
+  "alabamabuildingcontractor.com": {
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Max Mega Menu": [
+      "scriptSrc: (?:max)?megamenu(?:-pro)?(?:\\/assets)?(?:\\/public)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "weissbauchpapageien.de": {},
+  "jackwills.com": {
+    "_error": "HTTPSConnectionPool(host='jackwills.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "juanmunozhomesmart.com": {},
+  "nevsproductions.com": {
+    "_error": "HTTPSConnectionPool(host='nevsproductions.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "261welfarefund.com": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "kande-hoikuen.ed.jp": {
+    "_error": "HTTPSConnectionPool(host='kande-hoikuen.ed.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "orifoodsco.com": {
+    "_error": "HTTPSConnectionPool(host='orifoodsco.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "solvos.nl": {
+    "_error": "HTTPSConnectionPool(host='www.solvos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "deerfieldbeachautomall.com": {
+    "_error": "HTTPSConnectionPool(host='deerfieldbeachautomall.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "makpharma-eg.com": {
+    "_error": "HTTPSConnectionPool(host='makpharma-eg.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "kentpropertyrenovations.co.uk": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Infinite Scroll": [
+      "scriptSrc: infinite-?scroll(?:\\.pkgd)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ],
+    "Modernizr": [
+      "scriptSrc: modernizr(?:\\.([\\d.]+))?.*\\.js\\;version:\\1",
+      "scriptSrc: ([\\d.]+)?/modernizr.*\\.js\\;version:\\1"
+    ],
+    "Packery": [
+      "scriptSrc: packery(?:\\.pkgd)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.9.4"
+    ],
+    "WP Fastest Cache": [
+      "scriptSrc: /wp-content/cache/wpfc-minified/"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "cei-expertises.fr": {
+    "CookieYes": [
+      "scriptSrc: /wp-content/plugins/cookie-law-info/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Modernizr": [
+      "scriptSrc: modernizr(?:\\.([\\d.]+))?.*\\.js\\;version:\\1",
+      "scriptSrc: ([\\d.]+)?/modernizr.*\\.js\\;version:\\1"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.8.8"
+    ]
+  },
+  "howellmotors.com": {
+    "_error": "HTTPSConnectionPool(host='howellmotors.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='howellmotors.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+  },
+  "959marine.com": {
+    "Google Analytics": [
+      "scriptSrc: google-analytics\\.com/(?:ga|urchin|analytics)\\.js"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Weebly": [
+      "scriptSrc: cdn\\d+\\.editmysite\\.com"
+    ]
+  },
+  "buchhaltungsservice-koenig.de": {
+    "Catch Themes Catch Box": [
+      "scriptSrc: /wp-content/themes/catch-box(?:-pro)?/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "wglchurch.com": {
+    "_error": "HTTPSConnectionPool(host='wglchurch.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='wglchurch.com', port=443): Failed to resolve 'wglchurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "cmc01village.com": {
+    "_error": "HTTPSConnectionPool(host='cmc01village.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cmc01village.com', port=443): Failed to resolve 'cmc01village.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "ejc-courtage-assurances.fr": {
+    "_error": "HTTPSConnectionPool(host='ejc-courtage-assurances.fr', port=443): Read timed out. (read timeout=8)"
+  },
+  "nwmotorinn.com": {
+    "_error": "HTTPSConnectionPool(host='nwmotorinn.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='nwmotorinn.com', port=443): Failed to resolve 'nwmotorinn.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "cmresolutions.com": {
+    "_error": "HTTPSConnectionPool(host='cmresolutions.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cmresolutions.com'. (_ssl.c:1081)\")))"
+  },
+  "maiquotes.net": {
+    "_error": "HTTPSConnectionPool(host='maiquotes.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maiquotes.net'. (_ssl.c:1081)\")))"
+  },
+  "littlerockafamily.de": {
+    "_error": "HTTPSConnectionPool(host='littlerockafamily.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='littlerockafamily.de', port=443): Failed to resolve 'littlerockafamily.de' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "insieme.stanford.edu": {
+    "Acquia Cloud Site Factory": [
+      "scriptSrc: sites\\/g\\/files"
+    ],
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "Drupal": [
+      "meta: generator=Drupal 11 (https://www.drupal.org)"
+    ],
+    "Drupal Multisite": [
+      "scriptSrc: /sites/(?!(?:default|all)/).*/(?:files|themes|modules)/"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ]
+  },
+  "3dwealthadvisory.com": {
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "GoDaddy CoBlocks": [
+      "scriptSrc: /wp-content/plugins/coblocks/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "Three.js": [
+      "scriptSrc: three(?:\\.min)?\\.js"
+    ],
+    "Web Font Loader": [
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?webfontloader(?:\\.min)?(?:[-\\.][\\d\\w]{0,32})?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "layer7innovations.ca": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /(\\d+\\.\\d+\\.\\d+)/jquery(?!\\.popupoverlay\\.js|(?:\\.[\\w-]*)*fancybox)[/.-][^u]\\;version:\\1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "eclairage-solaire-occitanie.com": {
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com"
+    ]
+  },
+  "sdmdjentertainment.com": {
+    "_error": "HTTPSConnectionPool(host='sdmdjentertainment.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "3bsexcavating.com": {
+    "cdnjs": [
+      "scriptSrc: cdnjs\\.cloudflare\\.com"
+    ],
+    "DoubleClick Floodlight": [
+      "scriptSrc: \\.doubleclick\\.net"
+    ],
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Publisher Tag": [
+      "scriptSrc: securepubads\\.g\\.doubleclick.net/tag/js/gpt\\.js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery Mobile": [
+      "scriptSrc: jquery[.-]mobile(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+      "scriptSrc: jquery[.-]mobile(?:-)?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "UserWay": [
+      "scriptSrc: cdn\\.userway\\.org/widget.*\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "verticalcommunitychurch.com": {
+    "_error": "HTTPSConnectionPool(host='verticalcommunitychurch.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='verticalcommunitychurch.com', port=443): Failed to resolve 'verticalcommunitychurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "evelynanders.com": {},
+  "lscms.org": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "oakwell.vet": {
+    "Facebook Pixel": [
+      "scriptSrc: connect\\.facebook\\.\\w+/.+/fbevents\\.js"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Rich Plugins Reviews": [
+      "scriptSrc: /wp-content/plugins/widget-google-reviews/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "mysterion.hr": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Cookie Information plugin": [
+      "scriptSrc: /wp-content/plugins/wp-gdpr-compliance/"
+    ],
+    "Facebook Chat Plugin": [
+      "scriptSrc: connect\\.facebook\\.net/.+\\.customerchat\\.js"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Instagram Feed for WordPress": [
+      "scriptSrc: instagram-feed(?:\\/js)?(?:\\/sbi-scripts)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "MailChimp for WordPress": [
+      "scriptSrc: /wp-content/plugins/mailchimp-for-wp/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "ProfilePress": [
+      "scriptSrc: /wp-content/plugins/wp-user-avatar(?:-pro)?/.+frontend\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Select2": [
+      "scriptSrc: select2(?:\\.min|\\.full)?\\.js"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Slider Revolution": [
+      "scriptSrc: /wp-content/plugins/revslider/",
+      "scriptSrc: jquery\\.themepunch\\.revolution\\.min\\.js"
+    ],
+    "Smash Balloon Instagram Feed": [
+      "scriptSrc: /wp-content/plugins/instagram-feed/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "scriptSrc: wp-embed\\.min\\.js",
+      "meta: generator=WordPress 5.0.22"
+    ],
+    "WP Fastest Cache": [
+      "scriptSrc: /wp-content/cache/wpfc-minified/"
+    ]
+  },
+  "ferrateoxidant.com": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.4.10"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "ideenhunger.com": {
+    "_error": "HTTPSConnectionPool(host='www.ideenhunger.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "allegrocreditbeta.com": {
+    "_error": "HTTPSConnectionPool(host='allegrocreditbeta.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "stoperbis.pl": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "disinfestazioniepiscine.it": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Facebook Pixel": [
+      "scriptSrc: connect\\.facebook\\.\\w+/.+/fbevents\\.js"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "iubenda": [
+      "scriptSrc: iubenda\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "OWL Carousel": [
+      "scriptSrc: owl\\.carousel.*\\.js"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 6.9.7"
+    ]
+  },
+  "hoffmaninstitute.co.uk": {
+    "_error": "HTTPSConnectionPool(host='hoffmaninstitute.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "a3sec.com": {
+    "_error": "HTTPSConnectionPool(host='a3sec.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "365outsource.com": {
+    "Astra": [
+      "scriptSrc: themes/astra\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "nicholsonchiro.com": {
+    "_error": "HTTPSConnectionPool(host='nicholsonchiro.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "concrete-fitness.edan.io": {
+    "_error": "HTTPSConnectionPool(host='concrete-fitness.edan.io', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "jonesbuickgmc.com": {
+    "_error": "HTTPSConnectionPool(host='jonesbuickgmc.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "northshoremacnut.com": {
+    "_error": "HTTPSConnectionPool(host='www.northshoremacnut.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "la-residenza-del-principe-rome-it.booked.net": {
+    "_error": "HTTPSConnectionPool(host='la-residenza-del-principe-rome-it.booked.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "lorenz-baumarkt.de": {
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "Shopware": [
+      "scriptSrc: (?:(shopware)|/web/cache/[0-9]{10}_.+)\\.js\\;version:\\1?4:5"
+    ],
+    "Trusted Shops": [
+      "scriptSrc: widgets\\.trustedshops\\.com/"
+    ]
+  },
+  "xn--jobvrkstedet-9cb.nu": {
+    "_error": "HTTPSConnectionPool(host='xn--jobvrkstedet-9cb.nu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "powercleaning.services": {},
+  "fluxar.com.ar": {
+    "_error": "HTTPSConnectionPool(host='fluxar.com.ar', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "redpants.jp": {
+    "_error": "HTTPSConnectionPool(host='redpants.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "11thhourracing.org": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "freo.com.au": {
+    "_error": "HTTPSConnectionPool(host='freo.com.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "miratrade.com.tr": {},
+  "3-energie-klaas.de": {
+    "_error": "HTTPSConnectionPool(host='3-energie-klaas.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "appelpsychotherapy.com": {
+    "_error": "HTTPSConnectionPool(host='www.appelpsychotherapy.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "1ststopsupply.com": {
+    "_error": "HTTPSConnectionPool(host='1ststopsupply.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "hansis-knusperhendl-foodtruck.eatbu.com": {
+    "DISH": [
+      "scriptSrc: \\.dish\\.co"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ]
+  },
+  "celiabedilia.com": {
+    "_error": "HTTPSConnectionPool(host='celiabedilia.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='celiabedilia.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+  },
+  "pcb-cpb.com": {
+    "_error": "HTTPSConnectionPool(host='www.pcb-cpb.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "brucebournesold.com": {
+    "_error": "('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))"
+  },
+  "elcolegiocongresosyrestaurante.com": {
+    "Akamai Web Application Protector": [
+      "scriptSrc: ds-aksb-a\\.akamaihd\\.net/aksb.min.js",
+      "scriptSrc: aksb\\.min\\.js\\;confidence:50"
+    ],
+    "Amazon S3": [
+      "scriptSrc: s3[^ ]*\\.amazonaws\\.com/"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ]
+  },
+  "wrinkle-pei.cz": {
+    "_error": "HTTPSConnectionPool(host='wrinkle-pei.cz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wrinkle-pei.cz'. (_ssl.c:1081)\")))"
+  },
+  "2agateway.com": {
+    "_error": "HTTPSConnectionPool(host='2agateway.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "ledestjernenstu.dk": {
+    "_error": "HTTPSConnectionPool(host='ledestjernenstu.dk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "domekvefaru.com": {
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "WebNode": [
+      "meta: generator=Webnode 2"
+    ]
+  },
+  "bata.edu.hu": {
+    "Cryout Creations Parabola": [
+      "scriptSrc: /wp-content/themes/parabola/.+frontend\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "dorpsbelangen.nu": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Moment.js": [
+      "scriptSrc: moment(?:\\.min)?\\.js"
+    ],
+    "OWL Carousel": [
+      "scriptSrc: owl\\.carousel.*\\.js"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "aardvarkelectriccorp.com": {
+    "_error": "HTTPSConnectionPool(host='aardvarkelectriccorp.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1081)')))"
+  },
+  "davidloeppke.com": {
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Ruby on Rails": [
+      "meta: csrf-param=authenticity_token"
+    ]
+  },
+  "labdemo.com": {
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Font API": [
+      "scriptSrc: googleapis\\.com/.+webfont"
+    ],
+    "Google Hosted Libraries": [
+      "scriptSrc: ajax\\.googleapis\\.com/ajax/libs/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jsDelivr": [
+      "scriptSrc: cdn\\.jsdelivr\\.net"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ],
+    "YouTube": [
+      "scriptSrc: \\.youtube\\.com/"
+    ]
+  },
+  "1stlocksheathscouts.org.uk": {},
+  "jenniferbacksteininteriors.com": {
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ]
+  },
+  "1stclairavewest.com": {
+    "_error": "HTTPSConnectionPool(host='1stclairavewest.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1081)')))"
+  },
+  "shapirolawfirm.com": {
+    "_error": "HTTPSConnectionPool(host='shapirolawfirm.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))"
+  },
+  "joseph-herber.business.site": {},
+  "footasylum.com": {
+    "_error": "HTTPSConnectionPool(host='www.footasylum.com', port=443): Read timed out. (read timeout=8)"
+  },
+  "5rcircleprocess.weebly.com": {
+    "_error": "HTTPSConnectionPool(host='5rcircleprocess.weebly.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  "chiantifiorentino.it": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery",
+      "scriptSrc: /jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: ([\\d.]+)/jquery-ui(?:\\.min)?\\.js\\;version:\\1",
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Leaflet": [
+      "scriptSrc: (?:(?:dist\\/)?)?leaflet[\\w\\-\\.]{0,32}\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?(?!.+shopify)\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/(?:dist\\/)?)?leaflet[\\w\\-\\.]{0,32}\\.js(?!.+shopify)\\;version:\\1",
+      "scriptSrc: leaflet.{0,32}\\.js(?!.+shopify)"
+    ],
+    "OWL Carousel": [
+      "scriptSrc: owl\\.carousel.*\\.js"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "SweetAlert2": [
+      "scriptSrc: sweetalert2(?:\\.all)?(?:\\.min)?\\.js"
+    ]
+  },
+  "arol.cl": {
+    "DoubleClick Ad Exchange (AdX)": [
+      "scriptSrc: googlesyndication\\.com/pagead/show_ads\\.js"
+    ],
+    "Google AdSense": [
+      "scriptSrc: googlesyndication\\.com/"
+    ]
+  },
+  "construccionesyatecnicas.com": {
+    "_error": "HTTPSConnectionPool(host='construccionesyatecnicas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))"
+  },
+  "sindacatobadanti.it": {
+    "Backstretch": [
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?(?:jquery\\.)?backstretch(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "thomasrosenbaum.com": {
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Squarespace Commerce": [
+      "scriptSrc: assets\\.squarespace\\.\\w+/universal/scripts-compressed/commerce-\\w+-min\\.[\\w+\\-]+\\.js"
+    ]
+  },
+  "abbikadabbisbakingco.com": {
+    "Weebly": [
+      "scriptSrc: cdn\\d+\\.editmysite\\.com"
+    ]
+  },
+  "koniczynka.info.pl": {
+    "Easy Pie Chart": [
+      "scriptSrc: [Ee]asy-?[Pp]ie-?[Cc]hart(?:\\.min)?\\.js"
+    ],
+    "Facebook Pixel": [
+      "scriptSrc: connect\\.facebook\\.\\w+/.+/fbevents\\.js"
+    ],
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)",
+      "scriptSrc: \\.fontawesome\\.com/([0-9a-z]+).js"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery Mobile": [
+      "scriptSrc: jquery[.-]mobile(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+      "scriptSrc: jquery[.-]mobile(?:-)?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Popup Maker": [
+      "scriptSrc: /wp-content/plugins/popup-maker/(?:.+site(?:\\.min)?\\.js\\?.+ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Site Kit": [
+      "meta: generator=Site Kit by Google 1.187.0"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "unitedveterinaryservice.com": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Magnific Popup": [
+      "scriptSrc: magnific-popup(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "parallax.js": [
+      "scriptSrc: parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/)?parallax(?:\\/assets\\/js)?(?:\\/jquery)?(?:\\/scripts)?(?:\\/wow)?(?:[_\\.]move)?(?:\\.inview)?(?:\\.pkgd)?(?:\\.scrolling)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "rivithead.com": {},
+  "broganlmt.com": {
+    "Lodash": [
+      "scriptSrc: lodash.*\\.js"
+    ],
+    "Onsen UI": [
+      "scriptSrc: (/.*onsen.*min\\.js|.*angular-onsenui\\.min\\.js)"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Sentry": [
+      "scriptSrc: \\.sentry-cdn\\.com/"
+    ],
+    "WebsiteBuilder": [
+      "meta: generator=Wix.com Website Builder"
+    ],
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com",
+      "meta: generator=Wix.com Website Builder"
+    ]
+  },
+  "deepseass.com": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google AdSense": [
+      "scriptSrc: googlesyndication\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "SiteOrigin Page Builder": [
+      "scriptSrc: /wp-content/plugins/siteorigin-panels/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "SiteOrigin Widgets Bundle": [
+      "scriptSrc: /wp-content/plugins/so-widgets-bundle/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Twenty Seventeen": [
+      "scriptSrc: /wp-content/themes/twentyseventeen/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "lighthouseprc.org": {
+    "Bootstrap": [
+      "scriptSrc: (?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Chart.js": [
+      "scriptSrc: /Chart(?:\\.bundle)?(?:\\.min)?\\.js\\;confidence:75"
+    ],
+    "Easy Pie Chart": [
+      "scriptSrc: [Ee]asy-?[Pp]ie-?[Cc]hart(?:\\.min)?\\.js"
+    ],
+    "FitVids.JS": [
+      "scriptSrc: fitvids(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "imagesLoaded": [
+      "scriptSrc: imagesloaded(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "Infinite Scroll": [
+      "scriptSrc: infinite-?scroll(?:\\.pkgd)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Mixitup": [
+      "scriptSrc: mixitup(?:\\.min)?\\.js"
+    ],
+    "Modernizr": [
+      "scriptSrc: modernizr(?:\\.([\\d.]+))?.*\\.js\\;version:\\1",
+      "scriptSrc: ([\\d.]+)?/modernizr.*\\.js\\;version:\\1"
+    ],
+    "OWL Carousel": [
+      "scriptSrc: owl\\.carousel.*\\.js"
+    ],
+    "Slider Revolution": [
+      "scriptSrc: /wp-content/plugins/revslider/"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "Typed.js": [
+      "scriptSrc: typed(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1"
+    ],
+    "waitForImages": [
+      "scriptSrc: (?:((?:\\d+\\.)+\\d+)\\/(?:jquery\\.)?)?waitforimages(?:-modded)?(?:\\.min)?\\.js\\;version:\\1",
+      "scriptSrc: (?:(?:jquery\\.)?)?waitforimages(?:-((?:\\d+\\.)+\\d+)-modded)?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.0.4"
+    ],
+    "WP Rocket": [
+      "scriptSrc: /wp-content/plugins/wp-rocket/"
+    ]
+  },
+  "100wwcstlw.org": {
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ]
+  },
+  "tamcconstruction.net": {
+    "Contact Form 7": [
+      "scriptSrc: /wp-content/plugins/contact-form-7/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Elfsight": [
+      "scriptSrc: \\.elfsight\\.com/"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: googletagmanager\\.com/gtm\\.js",
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "Jetpack": [
+      "scriptSrc: /wp-content/plugins/jetpack/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "reCAPTCHA": [
+      "scriptSrc: /recaptcha/(?:api|enterprise)\\.js"
+    ],
+    "Twenty Twenty-One": [
+      "scriptSrc: /wp-content/themes/twentytwentyone/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/"
+    ]
+  },
+  "bfnelson.it": {
+    "CookieYes": [
+      "scriptSrc: cdn-cookieyes\\.com/client_data/"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Lightbox": [
+      "scriptSrc: lightbox(?:-plus-jquery)?.{0,32}\\.js"
+    ],
+    "Swiper": [
+      "scriptSrc: swiper(?:\\.min)?\\.js"
+    ],
+    "Unpkg": [
+      "scriptSrc: unpkg\\.com/"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "joburgheritage.org.za": {
+    "Astra": [
+      "scriptSrc: themes/astra\\S*\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+    ],
+    "Elementor": [
+      "scriptSrc: /wp-content/plugins/elementor(?:-pro)?/.+frontend-modules\\.min\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
+    "Font Awesome": [
+      "scriptSrc: (?:F|f)o(?:n|r)t-?(?:A|a)wesome(?:.*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)"
+    ],
+    "Google Analytics": [
+      "scriptSrc: googletagmanager\\.com/gtag/js"
+    ],
+    "Google Tag Manager": [
+      "scriptSrc: \\.googletagmanager\\.com/"
+    ],
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "jQuery Migrate": [
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "scriptSrc: jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "jQuery UI": [
+      "scriptSrc: jquery-ui.*\\.js"
+    ],
+    "Slick": [
+      "scriptSrc: (?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "Underscore.js": [
+      "scriptSrc: underscore.*\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "WordPress": [
+      "scriptSrc: /wp-(?:content|includes)/",
+      "meta: generator=WordPress 7.1"
+    ]
+  },
+  "gitesducharmois.fr": {
+    "Lodash": [
+      "scriptSrc: lodash.*\\.js"
+    ],
+    "Onsen UI": [
+      "scriptSrc: (/.*onsen.*min\\.js|.*angular-onsenui\\.min\\.js)"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Sentry": [
+      "scriptSrc: \\.sentry-cdn\\.com/"
+    ],
+    "WebsiteBuilder": [
+      "meta: generator=Wix.com Website Builder"
+    ],
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com",
+      "meta: generator=Wix.com Website Builder"
+    ]
+  },
+  "herbalwise.ie": {
+    "jQuery": [
+      "scriptSrc: jquery"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Shopify": [
+      "scriptSrc: cdn\\.shopify\\.com",
+      "meta: shopify-digital-wallet"
+    ]
+  },
+  "needaphysio.com": {
+    "Lodash": [
+      "scriptSrc: lodash.*\\.js"
+    ],
+    "Onsen UI": [
+      "scriptSrc: (/.*onsen.*min\\.js|.*angular-onsenui\\.min\\.js)"
+    ],
+    "Prototype": [
+      "scriptSrc: (?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1"
+    ],
+    "RequireJS": [
+      "scriptSrc: require.*\\.js"
+    ],
+    "Sentry": [
+      "scriptSrc: \\.sentry-cdn\\.com/"
+    ],
+    "WebsiteBuilder": [
+      "meta: generator=Wix.com Website Builder"
+    ],
+    "Wix": [
+      "scriptSrc: static\\.parastorage\\.com",
+      "meta: generator=Wix.com Website Builder"
+    ]
+  }
+}
