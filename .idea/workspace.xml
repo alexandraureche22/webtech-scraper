@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e9e3996-120d-41e2-8170-103743ed4366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/all_domains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_domains_saved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_signatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug_site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explore_wappalyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +72,8 @@
       <workItem from="1789378812034" duration="7000" />
       <workItem from="1789570927784" duration="1067000" />
       <workItem from="1789579968217" duration="15528000" />
-      <workItem from="1789667963543" duration="5353000" />
+      <workItem from="1789667963543" duration="6532000" />
+      <workItem from="1789990921844" duration="379000" />
     </task>
     <servers />
   </component>
